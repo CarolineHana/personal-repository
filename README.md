@@ -1,4 +1,4 @@
-#About ME
+# About Me
 
 This project is suppose to be a way for me to pratice my github
  skills and to share some things about myself. Its not *everything*
@@ -8,4 +8,4 @@ This project is suppose to be a way for me to pratice my github
 
  # Purpose
 
-The purpose of this repo is to learn to use git and GitHub
+The purpose of this repo is to learn the use of git and GitHub
